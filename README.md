@@ -27,7 +27,9 @@ You can connect to one of the computers via SSH. The following command should wo
 ssh username@burrow.soic.indiana.edu
 ```
 
-(If you are not a graduate student in SOIC this will likely not work. Tell the instructor.)
+(If you are not a graduate student in SOIC this will likely not work. Tell the
+instructor. In the interim, use ``ssh temporary1@159.203.138.237`` or ``ssh
+temporary2@159.203.138.237`` with the password provided in class.))
 
 Once connected you can type ``python3`` to use the Python REPL. You can run
 Python code stored in a file (e.g., ``my_program.py``) in your current
